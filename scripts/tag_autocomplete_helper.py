@@ -24,7 +24,7 @@ from scripts.shared_paths import *
 
 try:
     from modules import sd_hijack
-except Exception:
+except (ImportError, ModuleNotFoundError, AttributeError):
     sd_hijack = None
 
 try:
