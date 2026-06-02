@@ -41,7 +41,7 @@ Disclaimer: The default tag lists contain NSFW terms, please use them responsibl
    - **Note:** Translation files are provided by the community, see [here](#list-of-translations) for a list of translations I know of.
 
 Tag autocomplete supports built-in completion for:
-- 🏷️ **Danbooru & e621 tags** (Top 100k by post count, as of November 2022)
+- 🏷️ **Danbooru & e621 tags** (tags with 25+ posts, as of June 2026)
 - ✳️ [**Wildcards**](#wildcards)
 - ➕ [**Extra network**](#extra-networks-embeddings-hypernets-lora-) filenames, including
    - Textual Inversion embeddings [(jump to readme section)]

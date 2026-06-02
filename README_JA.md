@@ -40,7 +40,7 @@ Tag AutocompleteはStable Diffusion向けの人気のweb UIである、[AUTOMATI
    - 私が知っている翻訳のリストは[こちら](#翻訳リスト)を参照してください。
 
 タグの自動補完は組み込まれている補完内容をサポートしています：
-- 🏷️ **Danbooru & e621 tags** (投稿数上位100k、2022年11月現在)
+- 🏷️ **Danbooru & e621 tags** (投稿数25件以上、2026年6月現在)
 - ✳️ [**ワイルドカード**](#ワイルドカード)
 - ➕ [**Extra networks**](#extra-networks-embeddings-hypernets-lora-) filenames, including
    - Textual Inversion embeddings
